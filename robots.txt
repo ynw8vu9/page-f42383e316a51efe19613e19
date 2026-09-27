@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.3hu7g.cn/sitemap.xml
